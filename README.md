@@ -17,4 +17,6 @@ A high-performance **URL Shortener API** built with **FastAPI** that converts lo
 - **SQLAlchemy** – ORM for database interactions  
 - **SQLite** – Database for storing URLs and analytics  
 - **qrcode** – Library for generating QR codes  
-- **CORS Middleware** – Secure cross-origin resource sharing  
+- **CORS Middleware** – Secure cross-origin resource sharing
+- Access the Swagger UI at /docs
+
